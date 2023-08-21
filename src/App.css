@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+
+@media (max-aspect-ratio: 7/10){
+  .login-page{
+    width: 70vw;
+    height: 70vh;
+    border-radius: 20px;
+    justify-content: center;
+  }
+
+  
+
+
+
+
+}
